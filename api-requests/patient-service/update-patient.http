@@ -1,0 +1,11 @@
+PUT http://localhost:4000/patients/223e4567-e89b-12d3-a456-426614174014
+Content-Type: application/json
+
+{
+  "adress": "789 Willow St, Springfield",
+  "dateofBirth": "1987-10-17",
+  "mail": "isabella@example.com",
+  "name": "Walker only",
+  "registeredDate": "2024-03-29"
+}
+
